@@ -1,2 +1,2 @@
-# LUKE: A Lightweight Unsupervised Keyword Extraction Algorithm
+# LUKE (Lightweight Unsupervised Keyword Extraction)
 LUKE is a lightweight keyword extraction algorithm based on a term weighting scheme with multiple word features, including term frequency, inverse sentence frequency, term different sentence, term position, and term length. The goal is to automatically extract important words and phrases from unstructured text without training data or domain-specific knowledge.
