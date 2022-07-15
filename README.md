@@ -20,9 +20,8 @@ The four common benchmark datasets are described to below:
 Currently algorithms are available only in English, However, this algorithm provides the keyword extraction pipeline, which is easy to customize in other languages.
 
 ## Citation
-Please use the following bibtex reference to cite the work:
-
 <!---
+Please use the following bibtex reference to cite the work:
 ```bibtex
 @misc{grootendorst2020keybert,
   author       = {Maarten Grootendorst},
@@ -37,11 +36,11 @@ Please use the following bibtex reference to cite the work:
 --->
 
 ## References
+<!---
 You can find several resources that were used for the creation of keywords
 
 **Papers**:
 
-<!---
 * Sharma, P., & Li, Y. (2019). [Self-Supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling.](https://www.preprints.org/manuscript/201908.0073/download/final_file)
 
 <b>In-depth journal paper at Information Sciences Journal</b>
