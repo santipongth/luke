@@ -53,7 +53,5 @@ Campos, R., Mangaravite, V., Pasquali, A., Jatowt, A., Jorge, A., Nunes, C. and 
 
 For any question, feel free to create an issue, and we will try our best to solve.
 
-```
-NAME: Mr. Santipong Thaiprayoon
-EMAIL: santipongto@gmail.com
-```
+Name: Mr. Santipong Thaiprayoon
+E-mail: santipongto@gmail.com
