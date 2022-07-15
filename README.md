@@ -20,8 +20,9 @@ The four common benchmark datasets are described to below:
 Currently algorithms are available only in English, However, this algorithm provides the keyword extraction pipeline, which is easy to customize in other languages.
 
 ## Citation
-To cite KeyBERT in your work, please use the following bibtex reference:
+Please use the following bibtex reference to cite the work:
 
+<!---
 ```bibtex
 @misc{grootendorst2020keybert,
   author       = {Maarten Grootendorst},
@@ -33,42 +34,26 @@ To cite KeyBERT in your work, please use the following bibtex reference:
   url          = {https://doi.org/10.5281/zenodo.4461265}
 }
 ```
+--->
 
 ## References
-Please cite the following works when using YAKE
+You can find several resources that were used for the creation of keywords
+
+**Papers**:
+
+<!---
+* Sharma, P., & Li, Y. (2019). [Self-Supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling.](https://www.preprints.org/manuscript/201908.0073/download/final_file)
 
 <b>In-depth journal paper at Information Sciences Journal</b>
 
 Campos, R., Mangaravite, V., Pasquali, A., Jatowt, A., Jorge, A., Nunes, C. and Jatowt, A. (2020). YAKE! Keyword Extraction from Single Documents using Multiple Local Features. In Information Sciences Journal. Elsevier, Vol 509, pp 257-289. [pdf](https://doi.org/10.1016/j.ins.2019.09.013)
-
-## References
-Below, you can find several resources that were used for the creation of KeyBERT
-but most importantly, these are amazing resources for creating impressive keyword extraction models:
-
-**Papers**:
-* Sharma, P., & Li, Y. (2019). [Self-Supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling.](https://www.preprints.org/manuscript/201908.0073/download/final_file)
-
-**Github Repos**:
-* https://github.com/thunlp/BERT-KPE
-* https://github.com/ibatra/BERT-Keyword-Extractor
-* https://github.com/pranav-ust/BERT-keyphrase-extraction
-* https://github.com/swisscom/ai-research-keyphrase-extraction
-
-**MMR**:
-The selection of keywords/keyphrases was modeled after:
-* https://github.com/swisscom/ai-research-keyphrase-extraction
-
-**NOTE**: If you find a paper or github repo that has an easy-to-use implementation
-of BERT-embeddings for keyword/keyphrase extraction, let me know! I'll make sure to
-add a reference to this repo.
-
+--->
 
 ## CONTACT
 
-For any question, feel free to create an issue, and we will try our best to solve. \
-**If the problem is more urgent**, you can send an email to me at the same time (I check email almost everyday 😉).
+For any question, feel free to create an issue, and we will try our best to solve.
 
 ```
-NAME: Si Sun
-EMAIL: s-sun17@mails.tsinghua.edu.cn
+NAME: Mr. Santipong Thaiprayoon
+EMAIL: santipongto@gmail.com
 ```
