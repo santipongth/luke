@@ -49,7 +49,7 @@ You can find several resources that were used for the creation of keywords
 Campos, R., Mangaravite, V., Pasquali, A., Jatowt, A., Jorge, A., Nunes, C. and Jatowt, A. (2020). YAKE! Keyword Extraction from Single Documents using Multiple Local Features. In Information Sciences Journal. Elsevier, Vol 509, pp 257-289. [pdf](https://doi.org/10.1016/j.ins.2019.09.013)
 --->
 
-## CONTACT
+## Contact
 
 For any question, feel free to create an issue, and we will try our best to solve.
 
