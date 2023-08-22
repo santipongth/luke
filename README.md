@@ -16,7 +16,7 @@ The four common benchmark datasets are described to below:
 - `Inspec:` This consists of 2,000 short documents from scientific journal abstracts in the areas of computer science and information technology.
 - `DUC-2001:` This is a collection of 308 news articles with medium-length newspapers from TREC-9.
 
-### Supported language
+## Supported language
 Currently algorithms are available only in English, However, this algorithm provides the keyword extraction pipeline, which is easy to customize in other languages.
 
 ## Citation
