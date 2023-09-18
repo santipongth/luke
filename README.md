@@ -20,7 +20,6 @@ The four common benchmark datasets are described to below:
 Currently algorithms are available only in English, However, this algorithm provides the keyword extraction pipeline, which is easy to customize in other languages.
 
 ## Citation
-Please use the following bibtex reference to cite the work:
 ```bibtex
 @inproceedings{10.1145/3587716.3587972,
 author = {Thaiprayoon, Santipong and Unger, Herwig},
@@ -39,6 +38,7 @@ keywords = {keyword extraction, feature extraction, term weighting, statistical 
 location = {Zhuhai, China},
 series = {ICMLC '23}
 }
+```
 
 ## References
 <!---
