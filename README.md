@@ -20,20 +20,25 @@ The four common benchmark datasets are described to below:
 Currently algorithms are available only in English, However, this algorithm provides the keyword extraction pipeline, which is easy to customize in other languages.
 
 ## Citation
-<!---
 Please use the following bibtex reference to cite the work:
 ```bibtex
-@misc{grootendorst2020keybert,
-  author       = {Maarten Grootendorst},
-  title        = {KeyBERT: Minimal keyword extraction with BERT.},
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {v0.3.0},
-  doi          = {10.5281/zenodo.4461265},
-  url          = {https://doi.org/10.5281/zenodo.4461265}
+@inproceedings{10.1145/3587716.3587972,
+author = {Thaiprayoon, Santipong and Unger, Herwig},
+title = {A Lightweight Keyword Extraction Algorithm Using a Term Weighting Scheme with Word Features},
+year = {2023},
+isbn = {9781450398411},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3587716.3587972},
+doi = {10.1145/3587716.3587972},
+abstract = {The rapid growth of numerous collections of unstructured text increases the need to extract meaningful information. This paper proposes a new lightweight keyword extraction algorithm based on a term weighting scheme with multiple word features, including term frequency, inverse sentence frequency, term difference sentence, term position, and term length. The goal is to automatically extract important words and phrases from unstructured text without training data or domain-specific knowledge. The experimental results on several benchmark datasets show that the proposed algorithm significantly outperforms baseline and state-of-the-art approaches in terms of F1 scores.},
+booktitle = {Proceedings of the 2023 15th International Conference on Machine Learning and Computing},
+pages = {602–606},
+numpages = {5},
+keywords = {keyword extraction, feature extraction, term weighting, statistical model, unsupervised learning},
+location = {Zhuhai, China},
+series = {ICMLC '23}
 }
-```
---->
 
 ## References
 <!---
